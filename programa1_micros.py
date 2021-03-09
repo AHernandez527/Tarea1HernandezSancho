@@ -1,3 +1,4 @@
+# ERR3x3 -4.5 No retorna ningun error, solo lo imprime
 # Programa de definición de Módulos Adriana Hernández - Alejandro Sancho
 def CheckChar(string):
     # Esta función es la encargada de revisar qué hay en la entrada

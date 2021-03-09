@@ -1,3 +1,4 @@
+# ERR2 -2.5
 # Programa Tester de módulos
 # Adriana Hernández - Alejandro Sancho
 # Primero se comienza importando las funciones
@@ -31,3 +32,7 @@ def test_answer5():  # Codigo de prueba con pytest para elemento no string
 
 # Para realizar las pruebas, dirigirse al cmd, ubicarse en la dirección de
 # la carpeta y escribir "pytest Programa2_micros"
+
+
+# Si bien los metodos estan mal, el test si evalua correctamente considerando
+# este error, por eso no quito puntos
